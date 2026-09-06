@@ -469,6 +469,9 @@ footer {
 
 /* Responsive Styles */
 @media (max-width: 992px) {
+    .mobile-menu-btn {
+        display: block;
+    }
     .hero h1 {
         font-size: 2.8rem;
     }
